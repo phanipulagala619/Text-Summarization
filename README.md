@@ -7,9 +7,9 @@ With the outburst of information on the web, Text summarization helps to extract
 
 Why text summarization ?</br>
 
-    Text summarization reduces the reading time</br>
-    Makes selection process much easier</br>
-    Improves effectiveness of indexing</br>
-    Autometic text summarization is less bias than humans</br>
-    With the Autometic text summarization, the number of documents to be proceeded increases</br>
+    Text summarization reduces the reading time
+    Makes selection process much easier
+    Improves effectiveness of indexing
+    Autometic text summarization is less bias than humans
+    With the Autometic text summarization, the number of documents to be proceeded increases
 
